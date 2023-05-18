@@ -1,0 +1,2 @@
+# KAMO
+OpenType Color Font
