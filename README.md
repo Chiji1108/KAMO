@@ -1,5 +1,5 @@
 # KAMO
-OpenType color font made in PostScript.
+OpenType color font made by PostScript.
 
 ## Install
 You can download here
