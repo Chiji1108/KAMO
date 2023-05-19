@@ -9,6 +9,8 @@ https://github.com/Chiji1108/KAMO/releases/download/v1.0.0/KAMO.otf
 
 Color fonts are compatible with Adobe illustrator, web, etc.
 
-## Poster
+## Example
+![KAMO-Poster](https://github.com/Chiji1108/KAMO/assets/29515540/d373bf73-53ee-4d33-9c65-fd4daaca15a3)
 
-![KAMO-Poster](https://github.com/Chiji1108/KAMO/assets/29515540/2648917e-c3f0-43ab-84cc-7501a875f3f2)
+
+
